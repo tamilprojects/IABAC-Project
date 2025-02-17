@@ -1,0 +1,8 @@
+Pandas
+NumPy
+Matplotlib
+Seaborn
+PyLab
+SciPy
+Scikit-learn
+Pickle
